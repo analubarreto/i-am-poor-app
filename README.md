@@ -1,6 +1,6 @@
 # I_am_poor
 
-A new Flutter project.
+A just a really simple app to show I can position images in an app. LoL.
 
 ## Getting Started
 
