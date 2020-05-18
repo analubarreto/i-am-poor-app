@@ -1,6 +1,6 @@
 # I_am_poor
 
-A just a really simple app to show I can position images in an app. LoL.
+![Preview](https://github.com/analubarreto/i-am-poor-app/blob/master/images/Screen%20Shot%202020-05-18%20at%2014.04.41.png)
 
 ## Getting Started
 
